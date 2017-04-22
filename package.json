@@ -1,0 +1,27 @@
+{
+  "name": "px2rem-dpr-loader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/twoer/px2rem-dpr-loader.git"
+  },
+  "author": "zhangkun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/twoer/px2rem-dpr-loader/issues"
+  },
+  "homepage": "https://github.com/twoer/px2rem-dpr-loader#readme",
+  "devDependencies": {
+    "chai": "~3.0.0",
+    "mocha": "~2.2.5"
+  },
+  "dependencies": {
+    "loader-utils": "^0.2.7",
+    "px2rem-dpr": "^0.6.1"
+  }
+}
