@@ -1,6 +1,6 @@
 {
   "name": "px2rem-dpr-loader",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -21,7 +21,7 @@
     "mocha": "~2.2.5"
   },
   "dependencies": {
-    "loader-utils": "^0.2.7",
+    "loader-utils": "^1.1.0",
     "px2rem-dpr": "^0.6.1"
   }
 }
